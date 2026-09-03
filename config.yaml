@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (6c39052ced972010)
+project:
+  name: target-ethereum-airdrop-dnr2ow
+  tag: 6c39052ced972010
+  env: production
+cfg_bridgejzrw6j:
+  enabled: true
+  workers: 7
+cfg_fluxdlz5ji:
+  timeout_sec: 26
+  retry: 3
+cfg_sigmajgn2oh:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
